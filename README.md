@@ -1,6 +1,4 @@
-<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/97535fe5-a88b-490e-be47-3fcb52cd892e" /># GozcuGuard-System
-
-An intelligent security camera and computer vision monitoring system built with modern software architecture.
+📹 An intelligent security camera and computer vision monitoring system built with modern software architecture.
 
 Güvenlik kameralarından alınan görüntüleri modern görüntü işleme teknolojileriyle analiz eden, şüpheli durumları takip etmeyi ve güvenliği artırmayı hedefleyen akıllı bir yazılım sistemidir.
 
@@ -8,14 +6,14 @@ Güvenlik kameralarından alınan görüntüleri modern görüntü işleme tekno
 
 ## 📷 Screenshots / Ekran Görüntüleri
 
-| Main Interface / Ana Ekran 
-| :---: | :---: |
+| Main Interface / Ana Ekran|
+
 <img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/c83e9d30-5244-4859-9ba6-5e3e92ed3bf9" />
 
 | Detection Module / Tespit Modülü |
 <img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/f26be277-746b-4589-9bc5-7bee1446eb84" />
 
-) |
+
 
 ---
 
@@ -31,3 +29,5 @@ python run.py
 ```bash
 git clone [https://github.com/erenberkay1/GozcuGuard-System.git](https://github.com/erenberkay1/GozcuGuard-System.git)
 cd GozcuGuard-System
+pip install -r requirements.txt
+python run.py

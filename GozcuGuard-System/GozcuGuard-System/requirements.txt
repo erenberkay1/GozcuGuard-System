@@ -1,0 +1,10 @@
+opencv-python>=4.8,<5
+numpy
+nudenet
+pyvirtualcam
+mediapipe
+customtkinter
+Pillow
+keyboard
+psutil
+requests

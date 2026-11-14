@@ -43,19 +43,17 @@
 
 | Main Interface (Dashboard) / Ana Arayüz | Video Detection Module / Video Tespit Modülü |
 | :---: | :---: |
-| ![Main Interface] (<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/c83e9d30-5244-4859-9ba6-5e3e92ed3bf9" />) 
-| ![Detection Module]
- (<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/f26be277-746b-4589-9bc5-7bee1446eb84" />) |
+| ![Main Interface](https://github.com/user-attachments/assets/c83e9d30-5244-4859-9ba6-5e3e92ed3bf9) | ![Detection Module](https://github.com/user-attachments/assets/f26be277-746b-4589-9bc5-7bee1446eb84) |
 
 ---
 
 ## 🛠️ Installation & Running / Kurulum ve Çalıştırma
 
-### 1. Clone the Repository / Depoyu Klonlayın
-Open your terminal (CMD or PowerShell) and run:
-Terminalinizi (CMD veya PowerShell) açın ve çalıştırın:
+Projeyi bilgisayarınızda çalıştırmak için **CMD (Komut İstemi)** veya **PowerShell** uygulamasını açın ve sırasıyla aşağıdaki komutları yazın:
+
+### 1. Depoyu Klonlayın (Clone the Repository)
 ```bash
 git clone [https://github.com/erenberkay1/GozcuGuard-System.git](https://github.com/erenberkay1/GozcuGuard-System.git)
 cd GozcuGuard-System
-
-
+pip install -r requirements.txt
+python run.py

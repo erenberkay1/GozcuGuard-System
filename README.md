@@ -46,7 +46,7 @@
 | ![Main Interface](https://github.com/user-attachments/assets/c83e9d30-5244-4859-9ba6-5e3e92ed3bf9) | ![Detection Module](https://github.com/user-attachments/assets/f26be277-746b-4589-9bc5-7bee1446eb84) |
 
 ---
-### 0. Prerequisites / Ön Gereksinimler (Virtual Camera / Sanal Kamera)
+###  Prerequisites / Ön Gereksinimler (Virtual Camera / Sanal Kamera)
 To use the virtual camera output in Zoom, Google Meet, or Microsoft Teams, **OBS Studio** must be installed on your system:
 Zoom, Google Meet veya Microsoft Teams gibi uygulamalarda sanal kamera çıktısını kullanabilmek için bilgisayarınızda **OBS Studio** kurulu olmalıdır:
 

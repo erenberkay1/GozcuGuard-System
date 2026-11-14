@@ -10,8 +10,9 @@ Güvenlik kameralarından alınan görüntüleri modern görüntü işleme tekno
 
 | Main Interface / Ana Ekran | Detection Module / Tespit Modülü |
 | :---: | :---: |
-| ![Screenshot 1](<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/c83e9d30-5244-4859-9ba6-5e3e92ed3bf9" />
-) | ![Screenshot 2](<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/5926e97f-fd07-4feb-89f9-0b8374cc7d73" />
+(<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/c83e9d30-5244-4859-9ba6-5e3e92ed3bf9" />
+<img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/f26be277-746b-4589-9bc5-7bee1446eb84" />
+
 ) |
 
 ---

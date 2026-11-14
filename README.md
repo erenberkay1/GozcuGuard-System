@@ -8,9 +8,11 @@ Güvenlik kameralarından alınan görüntüleri modern görüntü işleme tekno
 
 ## 📷 Screenshots / Ekran Görüntüleri
 
-| Main Interface / Ana Ekran | Detection Module / Tespit Modülü |
+| Main Interface / Ana Ekran 
 | :---: | :---: |
-(<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/c83e9d30-5244-4859-9ba6-5e3e92ed3bf9" />
+<img width="1917" height="1010" alt="image" src="https://github.com/user-attachments/assets/c83e9d30-5244-4859-9ba6-5e3e92ed3bf9" />
+
+| Detection Module / Tespit Modülü |
 <img width="1917" height="997" alt="image" src="https://github.com/user-attachments/assets/f26be277-746b-4589-9bc5-7bee1446eb84" />
 
 ) |
